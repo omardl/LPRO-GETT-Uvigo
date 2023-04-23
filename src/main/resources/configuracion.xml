@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<configuracion>
+	<urlNodoMaster>http://192.168.152.154:8080</urlNodoMaster>
+	<dificultad>0</dificultad>
+	<maxTransaccionesPorBloque>2</maxTransaccionesPorBloque>
+	<minar>true</minar></configuracion>
